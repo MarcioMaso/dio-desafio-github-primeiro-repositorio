@@ -1,0 +1,10 @@
+Link para dwnload do git: 
+O Git bash é um terminal extendido para otimizar o uso do Git
+
+Para subir uma atualização para o GitHub
+digitar: git add . (ou) git add -A
+digitar: git commit -m "Escrever qual foi a atualização entre aspas"
+digitar: git push origin main
+
+atualizar a pagina do github para verificar se as atualizações subiram
+ 
